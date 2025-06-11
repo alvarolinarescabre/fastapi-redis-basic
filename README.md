@@ -21,7 +21,7 @@ fastapi-redis-basic/
 
 ````
 
-- **api/**: código fuente de la aplicación FastAPI.  
+- **/**: código fuente de la aplicación FastAPI.  
 - **.env**: variables de entorno para Redis.  
 - **docker-compose.yml**: definición de los servicios `api` y `cache`.  
 
