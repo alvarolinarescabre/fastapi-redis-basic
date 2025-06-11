@@ -1,4 +1,3 @@
-```markdown
 # FastAPI + Redis Counter App
 
 Este proyecto es una demostración de orquestación de múltiples servicios con Docker Compose, que incluye:
@@ -152,6 +151,3 @@ uvicorn app:app --reload --host 0.0.0.0 --port 8000
 ---
 
 > **Autor:** Álvaro "Chamo" Linares Cabré
-
-```
-```
