@@ -60,7 +60,7 @@ REDIS_PORT=6379
 
    ```bash
    git clone <tu-repo-url>
-   cd day2-demo-fastapi
+   cd fastapi-redis-basic
    ```
 
 2. Levanta el stack (reconstruyendo siempre la imagen API):
@@ -131,7 +131,7 @@ docker volume prune --force
 Si prefieres desarrollar sin Docker, instala dependencias:
 
 ```bash
-cd api
+cd fastapi-redis-basic
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
